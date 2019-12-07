@@ -198,7 +198,13 @@ button:disabled {
 }
 
 .message a {
-	color: #0070cc;
+	color: rgb(228, 224, 224);
+	font-weight: 400;
+}
+
+.message a:hover {
+	color: #a7e4ec;
+	font-weight: 400;
 }
 
 /* Message Composition Styles */
